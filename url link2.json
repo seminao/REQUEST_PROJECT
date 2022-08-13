@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "7700",
+            "parent_exercise_id": null,
+            "name": "Admission-Criteria",
+            "slug": "admission-process-criteria_json__Admission-Criteria_json",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/admission-process-criteria_json/Admission-Criteria.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7702",
+            "parent_exercise_id": null,
+            "name": "Assessment-Process-Stage-Wise",
+            "slug": "admission-process-criteria_json__Assessment-Process-Stage-Wise_json",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/admission-process-criteria_json/Assessment-Process-Stage-Wise.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7701",
+            "parent_exercise_id": null,
+            "name": "Admission-Process-Videos",
+            "slug": "admission-process-criteria_json__Admission-Process-Videos_json",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/admission-process-criteria_json/Admission-Process-Videos.json",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
